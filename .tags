@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+run_file	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/spec/spec_helper.rb	/^def run_file(file)$/;"	method	line:25
+get_variable_from_file	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/spec/spec_helper.rb	/^def get_variable_from_file(file, variable)$/;"	method	line:29
+capture_puts	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/spec/spec_helper.rb	/^def capture_puts$/;"	method	line:40
+Ruby Advanced Class Methods Lab	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^# Ruby Advanced Class Methods Lab$/;"	function	line:1
+Objectives	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+Instructions	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:9
+`Song.create`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^### `Song.create`$/;"	function	line:34
+`Song.new_by_name`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^### `Song.new_by_name`$/;"	function	line:45
+=>	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^#=> #<Song @name="The Middle">$/;"	function	line:51
+`Song.create_by_name`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^### `Song.create_by_name`$/;"	function	line:55
+=>	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^#=> #<Song:0x007fd2a2989ff0 @name="The Middle">$/;"	function	line:63
+=>	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^#=> #<Song:0x007fd2a2989ff0 @name="The Middle">$/;"	function	line:65
+=> true	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^#=> true$/;"	function	line:67
+`Song.find_by_name`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^### `Song.find_by_name`$/;"	function	line:70
+=>	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^#=> #<Song @name="The Middle">$/;"	function	line:76
+<Song @name="The Middle">	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^#<Song @name="The Middle">$/;"	function	line:79
+`Song.find_or_create_by_name`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^### `Song.find_or_create_by_name`$/;"	function	line:82
+song_1 and song_2 are conceptually the same song and should return the same song instance because of `.find_or_create_by_name.`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^# song_1 and song_2 are conceptually the same song and should return the same song instance because of `.find_or_create_by_name.`$/;"	function	line:92
+`Song.alphabetical`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^### `Song.alphabetical`$/;"	function	line:97
+`Song.new_from_filename`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^### `Song.new_from_filename`$/;"	function	line:103
+`Song.create_from_filename`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^### `Song.create_from_filename`$/;"	function	line:115
+`Song.destroy_all`	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/README.md	/^### `Song.destroy_all`$/;"	function	line:119
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+Song	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/lib/song.rb	/^class Song$/;"	class	line:1
+all	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/lib/song.rb	/^  def self.all$/;"	singleton method	line:5	class:Song
+save	/Users/manon/Development/code/ruby-advanced-class-methods-lab-london-web-career-031119/lib/song.rb	/^  def save$/;"	method	line:9	class:Song
